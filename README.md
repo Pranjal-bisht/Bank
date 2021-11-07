@@ -2,6 +2,8 @@
 
 * Build a Basic Banking System Website, a Web Application which is used to transfer money between multiple users and show the transaction history between the users.
 * You can add new users with their bank balance and transact between the existing users.
+* Added Schemas in SQL for adding new users and transacting and updating the balance of a user.
+* The Database management system used is MySQL Database.
 
 # Technologies Used:
 
