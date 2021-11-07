@@ -28,24 +28,24 @@
                 </div>
               </div>
               <div class="col-sm-12 col-md img text-center">
-                <img src="https://stalworth-acres.000webhostapp.com/img/bank.png" class="img-fluid pt-2">
+                <img src="https://cdn.icon-icons.com/icons2/2104/PNG/512/bank_icon_129525.png" class="img-fluid pt-2" width="300" height="400">
               </div>
             </div>
 
       <!-- Activity section -->
             <div class="row activity text-center">
                   <div class="col-md act">
-                    <img src="https://stalworth-acres.000webhostapp.com/img/user.jpg" class="img-fluid">
+                    <img src="https://www.seekpng.com/png/detail/72-729929_add-user-group-woman-add-user-icon-png.png" class="img-fluid" width="280" height="400">
                     <br>
                     <a href="createuser.php"><button style="background-color : #2785C4;" type="button" class="btn btn-primary">Create a User</button></a>
                   </div>
                   <div class="col-md act">
-                    <img src="https://stalworth-acres.000webhostapp.com/img/transfer.jpg" class="img-fluid">
+                    <img src="https://i.pinimg.com/474x/14/04/8d/14048d06bdf4c1d0f724370b7eabc45e.jpg" class="img-fluid" width="300" height="400">
                     <br>
                     <a href="transfermoney.php"><button style="background-color : #2785C4;" type="button" class="btn btn-primary">Make a Transaction</button></a>
                   </div>
                   <div class="col-md act">
-                    <img src="https://stalworth-acres.000webhostapp.com/img/history.jpg" class="img-fluid">
+                    <img src="https://cdn0.iconfinder.com/data/icons/online-money-service-orchid-volume-2/256/Transaction_History-512.png" class="img-fluid" width="300" height="400">
                     <br>
                     <a href="transactionhistory.php"><button style="background-color : #2785C4;" type="button" class="btn btn-primary">Transaction History</button></a>
                   </div>

@@ -47,7 +47,7 @@
       </div>
       <div class="screen-body">
         <div class="screen-body-item left">
-          <img class="img-fluid" src="https://stalworth-acres.000webhostapp.com/img/user3.jpg" style="border: none; border-radius: 50%;">
+          <img class="img-fluid" src="https://www.seekpng.com/png/detail/72-729929_add-user-group-woman-add-user-icon-png.png" style="border: none; border-radius: 50%;">
         </div>
         <div class="screen-body-item">
           <form class="app-form" method="post">
