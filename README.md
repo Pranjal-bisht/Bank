@@ -8,3 +8,6 @@
 * Frontend : HTML, CSS , JavaScript.
 * Back-end : PHP, MyphpAdmin 
 * Database : MySQL. 
+
+# Snapshots:
+# DEMO:
